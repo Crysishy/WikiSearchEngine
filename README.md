@@ -8,3 +8,5 @@ export PATH=~/ReplaceThisWithMavenFolderLocation/bin:$PATH
 Note:
 • The program is tested on personal computer with maven 3.3.9 and on lectura with maven 2.2.1.
 • This program uses Lucene for language processing (dependencies already added to pom.xml).
+
+!!!Detailed instructions in ProjectReport.pdf!!!
